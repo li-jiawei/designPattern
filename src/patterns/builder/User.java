@@ -1,4 +1,4 @@
-package pattern.builder;
+package patterns.builder;
 
 /**
  * Created by Jiawei on 7/10/17.

@@ -1,7 +1,7 @@
 package test;
 
 import org.junit.Test;
-import pattern.builder.User;
+import patterns.builder.User;
 
 /**
  * Created by Jiawei on 7/10/17.
