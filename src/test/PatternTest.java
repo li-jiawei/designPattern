@@ -19,5 +19,4 @@ public class PatternTest {
                 .build();
         System.out.println(user);
     }
-
 }
